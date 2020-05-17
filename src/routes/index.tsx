@@ -8,8 +8,8 @@ import Game from '../pages/Game'
 
 const Routes: React.FC = () => (
   <Switch>
-    <Route path="/" exact component={Home} />
-    <Route path="/game" component={Game} />
+    <Route path="/starwars-quiz" exact component={Home} />
+    <Route path="/starwars-quiz/game" component={Game} />
 
   </Switch>
 ) 
