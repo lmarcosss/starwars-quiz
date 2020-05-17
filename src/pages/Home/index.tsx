@@ -13,7 +13,7 @@ const HomePage: React.FC = () => {
         <Title>Quiz</Title>
       </Header>
 
-      <Begin href="/game">
+      <Begin href="/starwars-quiz/game">
         <Icon src={rocket} alt="rocket"/>
         START
       </Begin>
