@@ -1,4 +1,5 @@
 import styled, { keyframes } from 'styled-components'
+import { Link } from 'react-router-dom'
 import { shade } from 'polished'
 
 export const Container = styled.div`
@@ -77,7 +78,7 @@ const appear = keyframes`
   }
 ` 
 
-export const Begin = styled.a`
+export const Begin = styled(Link)`
   animation: ${appear} 4s; 
 
   width: 200px; 

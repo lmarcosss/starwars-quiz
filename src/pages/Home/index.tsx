@@ -10,10 +10,10 @@ const HomePage: React.FC = () => {
     <Container>
       <Header>
         <Image src="https://cdn.freebiesupply.com/logos/large/2x/star-wars-4-logo-black-and-white.png" alt="star-wars" />
-        <Title>Quiz</Title>
+        <Title>Quiz </Title>
       </Header>
 
-      <Begin href="/starwars-quiz/game">
+      <Begin to="/starwars-quiz/game">
         <Icon src={rocket} alt="rocket"/>
         START
       </Begin>
