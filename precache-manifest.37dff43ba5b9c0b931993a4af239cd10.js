@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79859a40c5f2c335cd5c06de55c1d284",
+    "revision": "113ef3e9aa97f2c5a19aa8998068798b",
     "url": "/starwars-quiz/index.html"
   },
   {
-    "revision": "dc66f578adc3c4506505",
-    "url": "/starwars-quiz/static/js/2.0374b8c7.chunk.js"
+    "revision": "40c942f838f050f4a665",
+    "url": "/starwars-quiz/static/js/2.f50e663b.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/starwars-quiz/static/js/2.0374b8c7.chunk.js.LICENSE.txt"
+    "url": "/starwars-quiz/static/js/2.f50e663b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "41abf03dc98000bd5cba",
-    "url": "/starwars-quiz/static/js/main.8cb2408c.chunk.js"
+    "revision": "11f18abf053877ac9896",
+    "url": "/starwars-quiz/static/js/main.f992baac.chunk.js"
   },
   {
     "revision": "78c3b0b5a2a54fa80ac1",
