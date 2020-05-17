@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/starwars-quiz/static/js/main.449e8b24.chunk.js",
+    "main.js.map": "/starwars-quiz/static/js/main.449e8b24.chunk.js.map",
+    "runtime-main.js": "/starwars-quiz/static/js/runtime-main.a53e8ec6.js",
+    "runtime-main.js.map": "/starwars-quiz/static/js/runtime-main.a53e8ec6.js.map",
+    "static/js/2.0374b8c7.chunk.js": "/starwars-quiz/static/js/2.0374b8c7.chunk.js",
+    "static/js/2.0374b8c7.chunk.js.map": "/starwars-quiz/static/js/2.0374b8c7.chunk.js.map",
+    "index.html": "/starwars-quiz/index.html",
+    "precache-manifest.cc273c49befa8ea6c4b1875586435c6a.js": "/starwars-quiz/precache-manifest.cc273c49befa8ea6c4b1875586435c6a.js",
+    "service-worker.js": "/starwars-quiz/service-worker.js",
+    "static/js/2.0374b8c7.chunk.js.LICENSE.txt": "/starwars-quiz/static/js/2.0374b8c7.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/starwars-quiz/static/media/avatar.82ef6945.png",
+    "static/media/rocket.png": "/starwars-quiz/static/media/rocket.29eda323.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a53e8ec6.js",
+    "static/js/2.0374b8c7.chunk.js",
+    "static/js/main.449e8b24.chunk.js"
+  ]
+}
